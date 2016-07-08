@@ -9,21 +9,16 @@ Air and Truck Expediting is on Social Media Accounts to keep customers up-to-dat
 
 <ul class="social-media">
   <li>
-    <a title="Github"
-      href="https://github.com/{{ site.social.github }}"
-      target="_blank"><i class="fa fa-github fa-2x"></i></a>
+    <a title="Github" href="https://github.com/{{ site.social.github }}" target="blank">
+    <i class="fa fa-github fa-2x"></i></a>
   </li>
 
 
   <li>
     <a title="Instagram"
       href="https://instagram.com/{{ site.social.instagram }}"
-      target="_blank"><i class="fa fa-instagram fa-2x"></i></a>
+      target="blank"><i class="fa fa-instagram fa-2x"></i></a>
   </li>
 
 
 </ul>
-
-
-{% endraw %}
-{% endhighlight html %}
