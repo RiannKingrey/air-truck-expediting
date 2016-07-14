@@ -93,10 +93,10 @@ blockquote {
 //                    Links
 //********************************************************
 a {
-  color: #3CA2A2;
+  color: #164cce;
 }
 a:hover {
-  color: #3CA2A2;
+  color: ##ef1515;
   border-bottom: 1px solid transparent;
 }
 
@@ -116,7 +116,7 @@ ul.social-media {
     display: inline-block;
     color: white;
     &:hover {
-      color: #3CA2A2;
+      color: #ef1515;
     }
   }
 }
@@ -225,7 +225,7 @@ div.post-meta {
   left: 0px;
   position:absolute;
   top: 0;
-  color: #87CEFA;
+  color: ##ef1515;
 }
 .warning:before {
   content: "\f071";
