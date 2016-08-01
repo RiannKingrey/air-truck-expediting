@@ -18,13 +18,13 @@ body {
   background-image: url(./pics/triangles.png);
 }
 .copyright {
-  color: #ffffff;
+  color: #c74d4d;
 }
 .footer {
   text-align: center;
 }
 .footer a {
-  color: #ee4444;
+  color: #c74d4d;
 }
 .sidebar h1 {
   color: #ddd;
@@ -93,10 +93,10 @@ blockquote {
 //                    Links
 //********************************************************
 a {
-  color: #164cce;
+  color: #c74d4d;
 }
 a:hover {
-  color: ##ef1515;
+  color: #ef1515;
   border-bottom: 1px solid transparent;
 }
 
@@ -225,7 +225,7 @@ div.post-meta {
   left: 0px;
   position:absolute;
   top: 0;
-  color: ##ef1515;
+  color: #ef1515;
 }
 .warning:before {
   content: "\f071";
@@ -255,7 +255,7 @@ nav.navbar.shrink {
 }
 .navbar-brand {
   font-size: 30px;
-  color: #3CA2A2 !important;
+  color: #c74d4d !important;
 
 }
 nav.shrink a {

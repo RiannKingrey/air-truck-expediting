@@ -5,7 +5,7 @@ title: "Getting Connected with Social Media"
 description: How to get connected to Air and Truck Expediting with Social Media
 ---
 
-Air and Truck Expediting is on Social Media Accounts to keep customers up-to-date with information. Also you are able to see all the places where Air and Truck is loading at.
+Air and Truck Expediting is on Social Media Accounts to keep customers up-to-date with information. Also you are able to see all the places where Air and Truck is loading at. To get connected with ATX please like our FaceBook page at Air and Truck Expediting LLC
 
 <ul class="social-media">
   <li>
